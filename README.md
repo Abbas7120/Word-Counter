@@ -19,8 +19,11 @@ In this , first of all we select the btn tag and onclick is applied on it i.e. w
  wordcount(document.getElementById("words").value.length);
 wordcount which is a function after counting it returns its answer in output as innerHTML i.e. 
 document.getElementById("output").innerHTML="Words Length is " + words + "😎";
-
+Full JS Code Pic:
 ![image](https://github.com/Abbas7120/Word-Counter/assets/148750291/87d54e72-12dd-426c-8937-731077aedb09)
+
+![image](https://github.com/Abbas7120/Word-Counter/assets/148750291/614f446f-75d3-4743-aba3-2bc29e1ed06c)
+
 
 
 Thank You !
